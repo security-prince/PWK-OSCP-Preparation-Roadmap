@@ -1,5 +1,5 @@
 ### **101s(Enumeration)**
-**1. DNS 101 (Basics of DNS and DNS enumaeration, DNS Zone Transfers)**</br>
+**1. DNS 101 (Basics of DNS and DNS enumaeration, DNS Zone Transfers)**<br />
 Possiblle misconfigurations and attack vectors</br>
 http://resources.infosecinstitute.com/dns-hacking/#gref
 
