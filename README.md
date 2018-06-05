@@ -1,14 +1,14 @@
-101s(Enumeration)
-1. DNS 101 (Basics of DNS and DNS enumaeration, DNS Zone Transfers)
-Possiblle misconfigurations and attack vectors
+### **101s(Enumeration)**
+**1. DNS 101 (Basics of DNS and DNS enumaeration, DNS Zone Transfers)**</br>
+Possiblle misconfigurations and attack vectors</br>
 http://resources.infosecinstitute.com/dns-hacking/#gref
 
 
-2. SMB 101 (SMB Enumeration,Null Session Enumeration, NetBIOS)
+**2. SMB 101 (SMB Enumeration,Null Session Enumeration, NetBIOS)**</br>
 Possiblle misconfigurations and attack vectors
 
-3. SMTP 101 (ENUMERATION)
-Possiblle misconfigurations and attack vectors
+**3. SMTP 101 (ENUMERATION)**</br>
+Possiblle misconfigurations and attack vectors</br>
 https://pentestlab.blog/2012/11/20/smtp-user-enumeration/
 
 
