@@ -25,7 +25,7 @@ Possiblle misconfigurations and attack vectors
 ### **Tools**  
 **1. NMAP 101 Port Scanning (TCP Connect Scan, UDP Scanning, Using NSE Scripts)**   
 NMAP - Port-Scanning: A Practical Approach Modified for better:  
-	https://www.exploit-db.com/papers/35425/
+	https://www.exploit-db.com/papers/35425/  
 **2. Wireshark 101(Capture and display filters, filters)**  
 **3  TCPDump (Filtering Traffic, Advanced header filtering)**  
 **4. Reverse and Bind shell, Transferring Files, Types of shells(tty,pty)**  
@@ -86,7 +86,6 @@ https://payatu.com/guide-linux-privilege-escalation/
 			https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/  
 			
 ### **MISC**   
-**Handson Practice**  
-**Dostoevskylabs's PenTest Notes**  
-https://dostoevskylabs.gitbooks.io/dostoevskylabs-pentest-notes/
+**Handson Practice**    
+https://dostoevskylabs.gitbooks.io/dostoevskylabs-pentest-notes/  
 https://github.com/sagishahar/challenges#k2  
