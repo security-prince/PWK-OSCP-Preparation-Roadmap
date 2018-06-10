@@ -24,6 +24,7 @@ Possible misconfigurations and attack vectors
 
 **6. SSH(Enumeration, Port Forwarding)**  
 Possible misconfigurations and attack vectors  
+[SSH Tunneling Explained](https://chamibuddhika.wordpress.com/2012/03/21/ssh-tunnelling-explained/)  
 
 ### **Tools**  
 **1. NMAP 101 Port Scanning (TCP Connect Scan, UDP Scanning, Using NSE Scripts)**   
@@ -37,8 +38,12 @@ Possible misconfigurations and attack vectors
 [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)  
 [7 Linux Shells Using Built-in Tools](http://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)        
 [Spawning a TTY Shell](https://netsec.ws/?p=337)  
+[Upgrading simple shells to fully interactive TTYs](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)  
+[Transferring Files from Linux to Windows (post-exploitation)](https://blog.ropnop.com/transferring-files-from-kali-to-windows/)  
+[Netcat without -e? No Problem!](https://pen-testing.sans.org/blog/2013/05/06/netcat-without-e-no-problem/)  
 **5. Recon-NG**  
 [Intro to Recon-ng](https://warroom.securestate.com/recon-ng-tutorial/)  
+[Recon-ng: Usage Guide](https://bitbucket.org/LaNMaSteR53/recon-ng/wiki/Usage%20Guide)  
 **6. Metasploit**   
 [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)  
 [Creating Metasploit Payloads](https://netsec.ws/?p=331)
