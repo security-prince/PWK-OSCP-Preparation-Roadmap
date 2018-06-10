@@ -10,7 +10,7 @@ Possible misconfigurations and attack vectors
 [Windows Null Session Enumeration](https://www.adampalmer.me/iodigitalsec/2013/08/10/windows-null-session-enumeration/)  
 [NetBIOS Enumeration And Null Session](http://nrupentheking.blogspot.com/2011/02/netbios-enumeration-and-null-session.html)  
 [NetBIOS and SMB Penetration Testing on Windows](http://www.hackingarticles.in/netbios-and-smb-penetration-testing-on-windows/)  
-
+[nbtscan Cheat Sheet](https://highon.coffee/blog/nbtscan-cheat-sheet/)  
 **3. SMTP 101 (ENUMERATION)**  
 Possible misconfigurations and attack vectors  
 [SMTP User Enumeration](https://pentestlab.blog/2012/11/20/smtp-user-enumeration/)  
@@ -32,7 +32,9 @@ Possible misconfigurations and attack vectors
 **2. Wireshark 101(Capture and display filters, filters)**  
 **3  TCPDump (Filtering Traffic, Advanced header filtering)**  
 **4. Reverse and Bind shell, Transferring Files, Types of shells(tty,pty)**  
+[Netcat Tutorials for Beginner](http://www.hackingarticles.in/netcat-tutorials-beginner/)  
 [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)  
+[Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)  
 [7 Linux Shells Using Built-in Tools](http://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)        
 [Spawning a TTY Shell](https://netsec.ws/?p=337)  
 **5. Recon-NG**  
@@ -43,6 +45,9 @@ Possible misconfigurations and attack vectors
 
 ### **Web App Pentesting**  
 **1. LFI(LFI to RCE)**  
+[LFI Cheat Sheet](https://highon.coffee/blog/lfi-cheat-sheet/)  
+[Upgrade from LFI to RCE via PHP Sessions](https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/)  
+[5 ways to Exploit LFi Vulnerability](http://www.hackingarticles.in/5-ways-exploit-lfi-vulnerability/)  
 **2. RFI(RFI to RCE)**  
 **3. SQL Injection (SQLi to RCE)**  
 [Full SQL Injection Tutorial (MySQL)](https://www.exploit-db.com/papers/13045/)  
@@ -94,4 +99,5 @@ Techniques of 2016](https://www.sans.org/reading-room/whitepapers/linux/attack-d
 [Dostoevskylabs's PenTest Notes](https://dostoevskylabs.gitbooks.io/dostoevskylabs-pentest-notes/)  
 [This challenge was built to promote the Windows / Linux Local Privilege](https://github.com/sagishahar/challenges#k2)  
 [What is Enumeration?](http://resources.infosecinstitute.com/what-is-enumeration/)  
-[PwnWiki.io is a collection TTPs (tools, tactics, and procedures) for what to do after access has been gained.](http://pwnwiki.io)
+[PwnWiki.io is a collection TTPs (tools, tactics, and procedures) for what to do after access has been gained.](http://pwnwiki.io)  
+[Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
