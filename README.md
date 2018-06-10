@@ -89,6 +89,6 @@ https://payatu.com/guide-linux-privilege-escalation/
 			https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/  
 			
 ### **MISC**   
-**Handson Practice**    
-https://dostoevskylabs.gitbooks.io/dostoevskylabs-pentest-notes/  
-https://github.com/sagishahar/challenges#k2  
+[Dostoevskylabs's PenTest Notes](https://dostoevskylabs.gitbooks.io/dostoevskylabs-pentest-notes/)  
+[This challenge was built to promote the Windows / Linux Local Privilege](https://github.com/sagishahar/challenges#k2)  
+[What is Enumeration?](http://resources.infosecinstitute.com/what-is-enumeration/)
