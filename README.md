@@ -6,6 +6,9 @@ http://resources.infosecinstitute.com/dns-hacking/#gref
 
 **2. SMB 101 (SMB Enumeration,Null Session Enumeration, NetBIOS)**  
 Possiblle misconfigurations and attack vectors  
+[Just what is SMB?](https://www.samba.org/cifs/docs/what-is-smb.html)  
+[SMB enumeration with Kali Linux – enum4linux, acccheck and smbmap](https://hackercool.com/2016/07/smb-enumeration-with-kali-linux-enum4linuxacccheck-smbmap/)  
+[Windows Null Session Enumeration](https://www.adampalmer.me/iodigitalsec/2013/08/10/windows-null-session-enumeration/)  
 
 **3. SMTP 101 (ENUMERATION)**  
 Possiblle misconfigurations and attack vectors  
