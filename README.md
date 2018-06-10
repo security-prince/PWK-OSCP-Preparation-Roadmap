@@ -90,5 +90,5 @@ Techniques of 2016](https://www.sans.org/reading-room/whitepapers/linux/attack-d
 ### **MISC**   
 [Dostoevskylabs's PenTest Notes](https://dostoevskylabs.gitbooks.io/dostoevskylabs-pentest-notes/)  
 [This challenge was built to promote the Windows / Linux Local Privilege](https://github.com/sagishahar/challenges#k2)  
-[What is Enumeration?](http://resources.infosecinstitute.com/what-is-enumeration/)
+[What is Enumeration?](http://resources.infosecinstitute.com/what-is-enumeration/)  
 [PwnWiki.io is a collection TTPs (tools, tactics, and procedures) for what to do after access has been gained.](http://pwnwiki.io)
