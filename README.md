@@ -106,4 +106,5 @@ Techniques of 2016](https://www.sans.org/reading-room/whitepapers/linux/attack-d
 [This challenge was built to promote the Windows / Linux Local Privilege](https://github.com/sagishahar/challenges#k2)  
 [What is Enumeration?](http://resources.infosecinstitute.com/what-is-enumeration/)  
 [PwnWiki.io is a collection TTPs (tools, tactics, and procedures) for what to do after access has been gained.](http://pwnwiki.io)  
-[Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+[Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)  
+[Common services](http://www.opsschool.org/en/latest/common_services.html)
