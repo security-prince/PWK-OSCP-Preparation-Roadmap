@@ -25,6 +25,7 @@ Possible misconfigurations and attack vectors
 **6. SSH(Enumeration, Port Forwarding)**  
 Possible misconfigurations and attack vectors  
 [SSH Tunneling Explained](https://chamibuddhika.wordpress.com/2012/03/21/ssh-tunnelling-explained/)  
+[Port Forwarding in Windows](http://woshub.com/port-forwarding-in-windows/)  
 
 ### **Tools**  
 **1. NMAP 101 Port Scanning (TCP Connect Scan, UDP Scanning, Using NSE Scripts)**   
