@@ -1,6 +1,7 @@
 ### **101s(Enumeration)**  
 **1. DNS 101 (Basics of DNS and DNS enumaeration, DNS Zone Transfers)**  
 Possible misconfigurations and attack vectors  
+[DNS 101](http://www.opsschool.org/en/latest/dns_101.html)
 [DNS Hacking (Beginner to Advanced)](http://resources.infosecinstitute.com/dns-hacking/)  
 
 **2. SMB 101 (SMB Enumeration,Null Session Enumeration, NetBIOS)**  
@@ -107,4 +108,5 @@ Techniques of 2016](https://www.sans.org/reading-room/whitepapers/linux/attack-d
 [What is Enumeration?](http://resources.infosecinstitute.com/what-is-enumeration/)  
 [PwnWiki.io is a collection TTPs (tools, tactics, and procedures) for what to do after access has been gained.](http://pwnwiki.io)  
 [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)  
-[Common services](http://www.opsschool.org/en/latest/common_services.html)
+[Common services](http://www.opsschool.org/en/latest/common_services.html)  
+[CTF Resources - Pen-Test Links](https://cph-sec.github.io/)
