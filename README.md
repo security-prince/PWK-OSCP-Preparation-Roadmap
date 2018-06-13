@@ -1,7 +1,7 @@
 ### **101s(Enumeration)**  
 **1. DNS 101 (Basics of DNS and DNS enumaeration, DNS Zone Transfers)**  
 Possible misconfigurations and attack vectors  
-[DNS 101](http://www.opsschool.org/en/latest/dns_101.html)
+[DNS 101](http://www.opsschool.org/en/latest/dns_101.html)  
 [DNS Hacking (Beginner to Advanced)](http://resources.infosecinstitute.com/dns-hacking/)  
 
 **2. SMB 101 (SMB Enumeration,Null Session Enumeration, NetBIOS)**  
