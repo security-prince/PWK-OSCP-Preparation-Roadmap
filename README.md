@@ -11,7 +11,8 @@ Possible misconfigurations and attack vectors
 [Windows Null Session Enumeration](https://www.adampalmer.me/iodigitalsec/2013/08/10/windows-null-session-enumeration/)  
 [NetBIOS Enumeration And Null Session](http://nrupentheking.blogspot.com/2011/02/netbios-enumeration-and-null-session.html)  
 [NetBIOS and SMB Penetration Testing on Windows](http://www.hackingarticles.in/netbios-and-smb-penetration-testing-on-windows/)  
-[nbtscan Cheat Sheet](https://highon.coffee/blog/nbtscan-cheat-sheet/)  
+[nbtscan Cheat Sheet](https://highon.coffee/blog/nbtscan-cheat-sheet/)
+
 **3. SMTP 101 (ENUMERATION)**  
 Possible misconfigurations and attack vectors  
 [SMTP User Enumeration](https://pentestlab.blog/2012/11/20/smtp-user-enumeration/)  
@@ -109,4 +110,5 @@ Techniques of 2016](https://www.sans.org/reading-room/whitepapers/linux/attack-d
 [PwnWiki.io is a collection TTPs (tools, tactics, and procedures) for what to do after access has been gained.](http://pwnwiki.io)  
 [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)  
 [Common services](http://www.opsschool.org/en/latest/common_services.html)  
-[CTF Resources - Pen-Test Links](https://cph-sec.github.io/)
+[CTF Resources - Pen-Test Links](https://cph-sec.github.io/)  
+[Blogposts on PWK and OSCP](https://0xdf.gitlab.io/) by [@0xdf_](https://twitter.com/0xdf_)
