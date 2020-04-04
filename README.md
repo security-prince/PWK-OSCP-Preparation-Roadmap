@@ -1,3 +1,5 @@
+### My roadmap for preparing for [OSCP](https://www.offensive-security.com/pwk-oscp/), anyone is free to use this and also feedback and contributions are welcome
+
 ### **101s(Enumeration)**  
 **1. DNS 101 (Basics of DNS and DNS enumaeration, DNS Zone Transfers)**  
 Possible misconfigurations and attack vectors  
