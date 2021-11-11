@@ -12,7 +12,7 @@ Possible misconfigurations and attack vectors
 **2. SMB 101 (SMB Enumeration,Null Session Enumeration, NetBIOS)**  
 Possible misconfigurations and attack vectors  
 [Just what is SMB?](https://www.samba.org/cifs/docs/what-is-smb.html)  
-[SMB enumeration with Kali Linux – enum4linux, acccheck and smbmap](https://hackercool.com/2016/07/smb-enumeration-with-kali-linux-enum4linuxacccheck-smbmap/)  
+[SMB enumeration with Kali Linux – enum4linux, acccheck and smbmap](https://www.hackercoolmagazine.com/smb-enumeration-with-kali-linux-enum4linuxacccheck-smbmap/)  
 [Windows Null Session Enumeration](https://www.adampalmer.me/iodigitalsec/2013/08/10/windows-null-session-enumeration/)  
 [NetBIOS Enumeration And Null Session](http://nrupentheking.blogspot.com/2011/02/netbios-enumeration-and-null-session.html)  
 [NetBIOS and SMB Penetration Testing on Windows](http://www.hackingarticles.in/netbios-and-smb-penetration-testing-on-windows/)  
