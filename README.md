@@ -1,4 +1,4 @@
-Updated posted is at https://ishaqmohammed.me/posts/pwk-oscp-preparation-roadmap/  
+Updated post is at https://ishaqmohammed.me/posts/pwk-oscp-preparation-roadmap/  
 
 ### My roadmap for preparing for [OSCP](https://www.offensive-security.com/pwk-oscp/), anyone is free to use this and also feedback and contributions are welcome
 
