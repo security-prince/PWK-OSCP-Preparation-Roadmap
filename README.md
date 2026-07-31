@@ -34,6 +34,7 @@ Possible misconfigurations and attack vectors
 [SSH Tunneling Explained](https://chamibuddhika.wordpress.com/2012/03/21/ssh-tunnelling-explained/)  
 [Port Forwarding in Windows](http://woshub.com/port-forwarding-in-windows/)  
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon): open source (GPL-3.0) autonomous AI pentest platform, self-hosted, to train safely on legal labs (Hack The Box, OWASP Juice Shop, DVWA, kubernetes-goat); covers web, API, Active Directory and Kubernetes.
 ### **Tools**  
 **1. NMAP 101 Port Scanning (TCP Connect Scan, UDP Scanning, Using NSE Scripts)**   
 [Hacking Articles:NMAP](http://www.hackingarticles.in/category/nmap/)  
